@@ -36,6 +36,9 @@
 .. |cnnorth1-name| replace:: China (Beijing) Region
 .. |region-cn-north-1| replace:: China (Beijing)
 
+.. |cnnorthwest1-name| replace:: China (Ningxia) Region
+.. |region-cn-northwest-1| replace:: China (Ningxia)
+
 .. |eucentral1-name| replace:: EU (Frankfurt) Region
 .. |region-eu-central-1| replace:: EU (Frankfurt)
 
